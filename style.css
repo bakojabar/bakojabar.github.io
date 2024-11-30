@@ -1,0 +1,30 @@
+a{
+    color: green;
+}
+a:active{
+    color: blue;
+}
+a:visited{
+    color: red;
+}
+header{
+
+    color: maroon;
+}
+#img{
+background-image: url(./462541331_548780337920483_771564083499013617_n.jpg);
+background-position: 300;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#box{
+
+  border: 2px solid black;
+  width: 700px;
+
+}
+#box1{
+
+    margin-left: 100px ;
+
+}
